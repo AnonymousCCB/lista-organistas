@@ -1,0 +1,36 @@
+{
+  "name": "lista-organistas",
+  "version": "1.0.0",
+  "description": "Lista de organistas",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnonymousCCB/lista-organistas.git"
+  },
+  "keywords": [
+    "lista",
+    "cronograma",
+    "organistas",
+    "agenda",
+    "ccb"
+  ],
+  "author": "AnonymousCCB",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnonymousCCB/lista-organistas/issues"
+  },
+  "homepage": "https://github.com/AnonymousCCB/lista-organistas#readme",
+  "dependencies": {
+    "hapi": "^16.6.2",
+    "sequelize": "^4.22.6"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-tape": "0.0.9",
+    "tap-colorize": "^1.2.0",
+    "tape": "^4.8.0"
+  }
+}
